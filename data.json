@@ -1,0 +1,21 @@
+{
+    "editor.inlayHints.enabled": "off",
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f"
+    },
+    "editor.wordWrap": "off",
+    "diffEditor.wordWrap": "off",
+    "editor.guides.indentation": false,
+    "editor.guides.bracketPairs": false,
+    "files.autoSave": "afterDelay",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontSize": 22,
+    "redhat.telemetry.enabled": true,
+    "settingsSync.ignoredSettings": [
+
+    ],
+    "workbench.iconTheme": "material-icon-theme"
+}
